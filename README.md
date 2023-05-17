@@ -1,4 +1,4 @@
-# TEAM：做的都队
+# TEAM：Do it all team
 # NAME: FPGA-based forest fire monitoring and alarm instrument
 # TIME:2022/11/8
 
